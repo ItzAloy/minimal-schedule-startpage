@@ -1,6 +1,6 @@
 <div align="center">
-<h1>Minimal Startpage</h1>
-<h4>Just another minimal startpage for browsers.</h4>
+<h1>Minimal Schedule Startpage</h1>
+<h4>Just modified minimal startpage for browsers. from [deepjyoti30](https://github.com/deepjyoti30)</h4>
 </div>
 
 <div align="center">
