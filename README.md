@@ -1,10 +1,21 @@
 <div align="center">
-<h1>Minimal Schedule Startpage</h1>
-<h4>Just modified minimal startpage for browsers. from [deepjyoti30](https://github.com/deepjyoti30)</h4>
+# Minimal Schedule Startpage
+A modified minimal startpage for browsers with schedule functionality.
+
+---
+
+### 📋 Quick Links
+[Installation](https://github.com/deepjyoti30/startpage/wiki/Installation) • [Configuration](https://github.com/deepjyoti30/startpage/wiki/Configuration) • [Wiki](https://github.com/deepjyoti30/startpage/wiki)
 </div>
 
-<div align="center">
-<h3>
-<a href="https://github.com/deepjyoti30/startpage/wiki/Installation">Installation</a> | <a href="https://github.com/deepjyoti30/startpage/wiki/Configuration">Configuration</a> | <a href="https://github.com/deepjyoti30/startpage/wiki">Wiki</a>
-</h3>
-</div>
+## ✨ Features
+- Clean and minimal design
+- Schedule integration
+- Browser startpage functionality
+- Customizable configuration
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to submit issues and pull requests.
+
+## 🙏 Acknowledgments
+- Original startpage by [deepjyoti30](https://github.com/deepjyoti30/startpage)
