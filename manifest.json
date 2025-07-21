@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "minimal-schedule-startpage",
+  "short_name": "minimal-schedule-startpage",
+  "version": "1.2",
+  "description": "Overrides the browsers newtab page with a custom startpage and schedule.",
+  "author": "Modified By n0t4",
+  "icons": {
+    "64": "img/icon64.png"
+  },
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "permissions": [
+    "storage"
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "minimal-schedule-startpage@n0t4.dev"
+    }
+  }
+}

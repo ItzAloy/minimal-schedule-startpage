@@ -1,0 +1,135 @@
+{
+  "squares": [
+    { "name": "Media",
+      "color": "red",
+      "links": [
+        { "name": "Instagram", "url": "https://instagram.com/" },
+        { "name": "Youtube", "url": "https://www.youtube.com/" },
+        { "name": "Animasu", "url": "https://animasu.id/" }
+      ]
+    },
+    { "name": "Work",
+      "color": "#26A69A",
+      "links": [
+        { "name": "Github", "url": "https://github.com" },
+        { "name": "Roblox Developer", "url": "https://devforum.roblox.com/" },
+        { "name": "PicoCTF", "url": "https://picoctf.org/" }
+      ]
+    },
+    {
+      "name": "Others",
+      "color": "#98C379",
+      "links": [
+        {"name": "Moklet Org", "url": "https://www.moklet.org/"},
+        {"name": "Moklet App", "url": "https://app.smktelkom-mlg.sch.id/"},
+        {"name": "Monkey Type", "url": "https://monkeytype.com/"},
+        {"name": "Gmail", "url": "http://gmail.com/"}
+      ]
+    }
+  ],
+  "linkInNewTab": true,
+  "title": "Dashboard",
+  "searchEngine":"Google",
+  "user": "n0t4",
+  "disableMessage": false,
+  "disableDate": false,
+  "disableSearchBar": false,
+  "disable24Hour": false,
+  "disableWeather": true,
+  "timeZone": "Asia/Jakarta",
+  "schedule": {
+    "enabled": true,
+    "classes": {
+      "monday": [
+        {"subject": "Upacara", "startTime": "06:30", "duration": 0.75, "teacher": "Kepala Sekolah"},
+        {"subject": "Doa/Dhuha", "startTime": "07:15", "duration": 0.5, "teacher": ""},
+        {"subject": "Tahfidz", "startTime": "07:45", "duration": 0.75, "teacher": "Jevi Wenda Santi, S.Pd."},
+        {"subject": "Persiapan UKK (TKJ)", "startTime": "08:30", "duration": 1.5, "teacher": "Hirga Ertama Putra, S.Kom."},
+        {"subject": "Istirahat", "startTime": "10:00", "duration": 0.5, "teacher": ""},
+        {"subject": "Mapel Konsentrasi Keahlian (TKJ)", "startTime": "11:15", "duration": 0.75, "teacher": "Muhammad Danial Masruroini, S.Pd."},
+        {"subject": "Istirahat", "startTime": "12:00", "duration": 1, "teacher": ""},
+        {"subject": "Mapel Konsentrasi Keahlian (TKJ)", "startTime": "13:00", "duration": 0.75, "teacher": "Muhammad Danial Masruroini, S.Pd."},
+        {"subject": "Persiapan UKK (TKJ)", "startTime": "14:30", "duration": 0.75, "teacher": "Hirga Ertama Putra, S.Kom."}
+      ],
+      "tuesday": [
+        {"subject": "Doa/Dhuha", "startTime": "06:30", "duration": 0.5, "teacher": ""},
+        {"subject": "Tahfidz", "startTime": "07:00", "duration": 0.75, "teacher": "Jevi Wenda Santi, S.Pd."},
+        {"subject": "Sejarah Indonesia", "startTime": "07:45", "duration": 0.75, "teacher": "Guntur Adi Putra, S.Pd."},
+        {"subject": "Bimbingan Konseling", "startTime": "08:30", "duration": 0.75, "teacher": "Misfalah Thawafa, S.Psi."},
+        {"subject": "Bahasa Inggris", "startTime": "09:15", "duration": 0.75, "teacher": "Ardhian Suseno, M.Pd."},
+        {"subject": "Istirahat", "startTime": "10:00", "duration": 0.5, "teacher": ""},
+        {"subject": "Informatika", "startTime": "10:30", "duration": 0.75, "teacher": "Joni Setiyawan Saputra, S.Pd."},
+        {"subject": "Bahasa Jawa", "startTime": "11:15", "duration": 0.75, "teacher": "Rahardiyan Andzikriadi/Sri Chusnul Harityah, S.Pd."},
+        {"subject": "Dhuhur", "startTime": "12:00", "duration": 1, "teacher": ""},
+        {"subject": "Persiapan Bekerja", "startTime": "13:00", "duration": 2.25, "teacher": "Guru Industri-TKJ3"}
+      ],
+      "wednesday": [
+        {"subject": "Doa/Dhuha", "startTime": "06:30", "duration": 0.5, "teacher": ""},
+        {"subject": "Tahfidz", "startTime": "07:00", "duration": 0.75, "teacher": "Jevi Wenda Santi, S.Pd."},
+        {"subject": "Koding & Kecerdasan Artifisial", "startTime": "07:45", "duration": 0.75, "teacher": "Firman Hadi Amrullah Zainani, S.Kom."},
+        {"subject": "Bahasa Indonesia", "startTime": "08:30", "duration": 1.5, "teacher": "Tenri Farizatul Warda, S.Pd., Gr."},
+        {"subject": "Istirahat", "startTime": "10:00", "duration": 0.5, "teacher": ""},
+        {"subject": "Bahasa Indonesia", "startTime": "10:30", "duration": 1.25, "teacher": "Tenri Farizatul Warda, S.Pd., Gr."},
+        {"subject": "Matematika", "startTime": "11:15", "duration": 0.75, "teacher": "Kinanti Retnaning Widyani, M.Pd."},
+        {"subject": "Dhuhur", "startTime": "12:00", "duration": 1, "teacher": ""},
+        {"subject": "Matematika", "startTime": "13:00", "duration": 0.75, "teacher": "Kinanti Retnaning Widyani, M.Pd."},
+        {"subject": "Pend. Agama & Budi Pekerti", "startTime": "13:45", "duration": 1.5, "teacher": "Ahmad Nasikin, M.Pd."}
+      ],
+      "thursday": [
+        {"subject": "Doa/Dhuha", "startTime": "06:30", "duration": 0.5, "teacher": ""},
+        {"subject": "Tahfidz", "startTime": "07:00", "duration": 0.75, "teacher": "Jevi Wenda Santi, S.Pd."},
+        {"subject": "Pend. Pancasila & Kewarganegaraan", "startTime": "07:45", "duration": 1.5, "teacher": "Ermawati Dwi Restuningsih, S.Pd."},
+        {"subject": "IPAS", "startTime": "09:15", "duration": 0.75, "teacher": "Diaur Rahman, S.Pd."},
+        {"subject": "Istirahat", "startTime": "10:00", "duration": 0.5, "teacher": ""},
+        {"subject": "Pend. Jasmani & Kesehatan", "startTime": "10:30", "duration": 1.5, "teacher": "Rofiqut Thoriq, S.Pd."},
+        {"subject": "Dhuhur", "startTime": "12:00", "duration": 1, "teacher": ""},
+        {"subject": "Persiapan Bekerja", "startTime": "13:00", "duration": 2.25, "teacher": "Guru Industri-TKJ3"}
+      ],
+      "friday": [
+        {"subject": "Giat Jumat Pagi", "startTime": "06:30", "duration": 0.75, "teacher": ""},
+        {"subject": "Istirahat", "startTime": "07:15", "duration": 0.25, "teacher": ""},
+        {"subject": "Seni Budaya", "startTime": "07:30", "duration": 0.75, "teacher": "Agung Bagus Wicaksono, S.Sn., M.Pd."},
+        {"subject": "Matematika", "startTime": "08:15", "duration": 0.75, "teacher": "Rendi Lusbiantoro. M.Pd."},
+        {"subject": "Bahasa Inggris", "startTime": "09:00", "duration": 1.5, "teacher": "Jevi Wenda Santi, S.Pd."},
+        {"subject": "Doa/Dhuha", "startTime": "11:15", "duration": 0.5, "teacher": ""},
+        {"subject": "Dhuhur", "startTime": "11:45", "duration": 1.25, "teacher": ""},
+        {"subject": "Persiapan Bekerja", "startTime": "13:00", "duration": 2.25, "teacher": "Qodri Akbar Wajdi, S.Kom"}
+      ],
+      "saturday": [],
+      "sunday": []
+    }
+  },
+  "weatherConf": {
+    "location": "Malang",
+    "unit": "cel"
+  },
+  "settingsIcon": false,
+  "style": {
+    "backgroundColor": "#212121",
+    "messageColor": "#fff",
+    "dateColor": "#d9d9d9",
+    "lineColor": "#fff",
+    "weatherColor": "#d9d9d9",
+    "searchColor": "#fff",
+    "searchBackgroundColor": "#2e2e2e",
+    "squareColor": "#9e9e9e",
+    "squareBackgroundColor": "#2e2e2e",
+    "autocompleteHighlightBackgroundColor": "#3B3B3B"
+  },
+  "quickLinks": {
+    "r": "https://reddit.com",
+    "g": "https://github.com",
+    "y": "https://youtube.com",
+    "d": {
+      "URL": "https://duckduckgo.com",
+      "Search": "/?q="
+    },
+    "b": "https://bing.com",
+    "p": "https://startpage.com",
+    "s": "https://stackoverflow.com",
+    "w": {
+      "URL":"https://wikipedia.org/wiki",
+      "Search": "/Special:Search?search="
+    }
+  }
+}
