@@ -1,6 +1,5 @@
 <div align="center">
-### Minimal Schedule Startpage 
-A modified minimal startpage for browsers with schedule functionality.
+Minimal Schedule Startpage A modified minimal startpage for browsers with schedule functionality.
 
 ---
 

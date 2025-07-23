@@ -3,27 +3,27 @@
     { "name": "Media",
       "color": "red",
       "links": [
-        { "name": "Instagram", "url": "https://instagram.com/" },
-        { "name": "Youtube", "url": "https://www.youtube.com/" },
-        { "name": "Animasu", "url": "https://animasu.id/" }
+        { "name": "Instagram", "url": "https://instagram.com/", "newTab": false },
+        { "name": "Youtube", "url": "https://www.youtube.com/", "newTab": false },
+        { "name": "Animasu", "url": "https://animasu.id/", "newTab": false }
       ]
     },
     { "name": "Work",
       "color": "#26A69A",
       "links": [
-        { "name": "Github", "url": "https://github.com" },
-        { "name": "Roblox Developer", "url": "https://devforum.roblox.com/" },
-        { "name": "PicoCTF", "url": "https://picoctf.org/" }
+        { "name": "Github", "url": "https://github.com", "newTab": false },
+        { "name": "Roblox Developer", "url": "https://devforum.roblox.com/", "newTab": false },
+        { "name": "PicoCTF", "url": "https://picoctf.org/", "newTab": false }
       ]
     },
     {
       "name": "Others",
       "color": "#98C379",
       "links": [
-        {"name": "Moklet Org", "url": "https://www.moklet.org/"},
-        {"name": "Moklet App", "url": "https://app.smktelkom-mlg.sch.id/"},
-        {"name": "Monkey Type", "url": "https://monkeytype.com/"},
-        {"name": "Gmail", "url": "http://gmail.com/"}
+        {"name": "Moklet Org", "url": "https://www.moklet.org/", "newTab": false},
+        {"name": "Moklet App", "url": "https://app.smktelkom-mlg.sch.id/", "newTab": false},
+        {"name": "Monkey Type", "url": "https://monkeytype.com/", "newTab": false},
+        {"name": "Gmail", "url": "http://gmail.com/", "newTab": false}
       ]
     }
   ],
